@@ -1,0 +1,5 @@
+[alias]
+    lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+    last = log -1 HEAD
+    cane = commit --amend --no-edit
+    pf = push --force
